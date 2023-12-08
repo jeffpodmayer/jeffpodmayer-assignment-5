@@ -38,7 +38,7 @@ public class CustomListApplication {
 		System.out.println("-----------");
 
 		System.out.println("Get Indexed Item: ");
-		System.out.println(trailsList.get(0));
+		System.out.println(trailsList.get(17));
 	}
 
 }
